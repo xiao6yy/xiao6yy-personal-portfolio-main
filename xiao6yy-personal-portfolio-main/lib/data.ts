@@ -151,7 +151,7 @@ export const projectsData = [
         tags: ["Pytorch", "django", "Torchaudio", "Pandas", "HTML", "CSS", "JavaScript"],
         imageUrl: MusicImage,
         projectUrl: 'https://github.com/xiao6yy/Music-about-neural-networks',
-        demoUrl: 'http://127.0.0.1:8000/project',
+        demoUrl: 'http://101.34.200.201/project',
     },
     {
         title: "Global Wealth Spectrum Visualisation",
